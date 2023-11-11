@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new-bird-app/static/css/main.e6c13ad2.css",
+    "main.js": "/new-bird-app/static/js/main.ea276ed0.js",
+    "static/js/787.2fdf769b.chunk.js": "/new-bird-app/static/js/787.2fdf769b.chunk.js",
+    "index.html": "/new-bird-app/index.html",
+    "main.e6c13ad2.css.map": "/new-bird-app/static/css/main.e6c13ad2.css.map",
+    "main.ea276ed0.js.map": "/new-bird-app/static/js/main.ea276ed0.js.map",
+    "787.2fdf769b.chunk.js.map": "/new-bird-app/static/js/787.2fdf769b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ea276ed0.js"
+  ]
+}
