@@ -7,9 +7,11 @@ function App() {
     </div>
   )
 }
+
+// ch
 function Birds() {
   const Bird1 = {
-    Name: 'Parrot',
+    Name: 'Parrott',
     Color: 'Green',
     icon:'🦜'
   }
